@@ -1,11 +1,12 @@
 {
   "name": "Muhammad Bilawal | Behavioral Health RCM Portfolio",
-  "short_name": "MB RCM",
+  "short_name": "MB RCM Portfolio",
+  "description": "Behavioral health RCM, medical billing, denials, appeals and AR recovery portfolio.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#F7F5EF",
-  "theme_color": "#9CAF88",
+  "background_color": "#f3faf8",
+  "theme_color": "#0d786f",
   "icons": [
     {
       "src": "icon-192.png",
