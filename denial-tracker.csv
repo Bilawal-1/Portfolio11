@@ -1,0 +1,3 @@
+Account_ID,Payer,Age_Bucket,Issue,Root_Cause,Action,Next_Follow_Up,Status
+SAMPLE-001,Commercial,90-120,Telehealth denial,Modifier/POS mismatch,Correct and resubmit,2026-12-01,In Progress
+SAMPLE-002,Medicaid,120+,Diagnosis denial,Invalid primary diagnosis,Validate docs and appeal,2026-12-02,Appeal Ready
